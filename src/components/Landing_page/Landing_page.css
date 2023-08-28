@@ -1,0 +1,46 @@
+.main_name{
+    text-align: center;
+    color: #00FFF0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #00FFF0 35%, #C102FD 100%);
+    font-family: "a", Sans-serif;
+    font-size: 150px;
+    font-weight: 600;
+    margin: 0 0 20px;
+    line-height: 1.4;
+    vertical-align: baseline;
+    -widgets-spacing: 20px;
+    --swiper-theme-color: #000;
+    --swiper-navigation-size: 44px;
+    --swiper-pagination-bullet-size: 6px;
+    --swiper-pagination-bullet-horizontal-gap: 6px;
+}
+
+
+.landing_para{
+    color: #FFFFFF;
+    font-family: 'Roboto Condensed', sans-serif;
+text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+.soical_icons{
+    font-weight: 500;
+    font-size: 28px ;
+    color: white !important;
+}
+
+
+.landing_btn{
+    font-size: 20px;
+    font-weight: 400;
+    color: #00F0FF;
+    padding: 12px 35px 12px 35px;
+    background-color: transparent;
+    border: none;
+    border: 1px solid #00F0FF;
+}

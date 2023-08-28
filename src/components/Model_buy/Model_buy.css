@@ -1,0 +1,82 @@
+.bg_heder{
+    background-color: #00F0FF;
+}
+
+
+.excha{
+    font-weight: 600;
+
+}
+
+.moedal_body_here{
+    background-color: black;
+    padding: 20px 20px 30px 20px;
+}
+
+.sellig{
+    background-color: rgb(33, 33, 33);
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+
+.selliiiig{
+    background-color: rgb(33, 33, 33);
+    padding: 10px 15px !important;
+    border-radius: 25px;
+}
+
+.selling_input{
+    background-color: transparent !important;
+    color: white !important;
+    font-size: 18px;
+   
+    border: none ;
+}
+
+.selling_input{
+    border: none !important;
+    /* overflow: unset; */
+    outline: none;
+    box-shadow: none !important;
+}
+
+
+.bnb_log{
+    width: 40px !important;
+}
+
+.anthur{
+    color: #00F0FF;
+font-weight: 500;
+}
+
+.max_btn{
+    background-color: transparent;
+    border: none;
+    color: #00F0FF;
+    font-weight: 700;
+}
+
+.swap_btm{
+    background-color: #00F0FF;
+    padding: 10px 15px ;
+    color: #000;
+    font-weight: 500;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+}
+
+.drop_do{
+    background-color: transparent !important;
+    border: 1px solid white;
+}
+
+.drop_do:hover{
+    border: 1px solid white !important;
+}
+
+.drop_do:focus{
+    box-shadow: none !important;
+}
